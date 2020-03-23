@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan data sebanyak 128 karakter</description>
+   <name>Testing Create menambah judul berita 129 karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdf85bc4-3136-47e0-9d28-13e4f4355879</testCaseGuid>
+</TestCaseEntity>

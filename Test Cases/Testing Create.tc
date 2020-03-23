@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan data kurang dari 128 karakter</description>
+   <name>Testing Create</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a51323d-545f-4665-8d59-8494e5de5785</testCaseGuid>
+</TestCaseEntity>

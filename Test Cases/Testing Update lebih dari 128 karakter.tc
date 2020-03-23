@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testing update karakter kurang dari 128</description>
+   <name>Testing Update lebih dari 128 karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efdaf814-cde1-4ee4-8283-6d6fedb1119d</testCaseGuid>
+</TestCaseEntity>

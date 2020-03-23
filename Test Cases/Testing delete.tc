@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete berita</description>
+   <name>Testing delete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db070340-4eea-467a-99c9-1a1ab5125af5</testCaseGuid>
+</TestCaseEntity>
